@@ -1,4 +1,6 @@
 # exemploRaycast
+### Criado por Gabriel Lima Villarinho e Gustavo da Silva Rezende
+
 ## Link do projeto
 
 <p>link</p>
@@ -8,7 +10,8 @@
 ### raycast
 
 <p>Nesse script estamos iniciando o código instanciando as variáveis e inicinando uma CoRoutine para gerar os alvos</p>
-imagem
+image
+
 
 <p>No script abaixo checamos o input do usuário, se for o botão esquerdo do mouse o raio é lançado da posição do mouse, se for na barra de espaço o raio é lançado da frente do objeto e se for a tecla enter o raio é lançado do centro da câmera</p>
 imagem
@@ -29,6 +32,14 @@ imagem
 imagem
 
 <p>Nesse estamos criando o método para criar os alvos aleatóriamente na cena</p>
+imagem
+
+### Movimentação
+
+<p>Aqui instaciamos as variáveis e setando elas para 0</p>
+iamgem
+
+<p>Aqui estamos checando o input do usuário e para cada input ele rotaciona para um dos eixos, sendo eles W no eixo X positivo e S negativo, A no eixo Z positivo e D negativo e por fim Q no eixo Y positivo e E negativo</p>
 imagem
 
 ## Vídeo

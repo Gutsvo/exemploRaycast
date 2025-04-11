@@ -24,3 +24,5 @@ imagem
 
 <p>Nesse estamos criando o método para criar os alvos aleatóriamente na cena</p>
 imagem
+
+## Vídeo

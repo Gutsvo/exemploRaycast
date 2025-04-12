@@ -10,7 +10,7 @@
 ### raycast
 
 <p>Nesse script estamos iniciando o código instanciando as variáveis e inicinando uma CoRoutine para gerar os alvos</p>
-image
+![image](https://github.com/Gutsvo/exemploRaycast/blob/main/Screenshots/Captura%20de%20tela%202025-04-11%20121453.png)
 
 
 <p>No script abaixo checamos o input do usuário, se for o botão esquerdo do mouse o raio é lançado da posição do mouse, se for na barra de espaço o raio é lançado da frente do objeto e se for a tecla enter o raio é lançado do centro da câmera</p>
